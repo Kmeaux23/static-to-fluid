@@ -1,0 +1,22 @@
+@charset "UTF-8";
+/* CSS Document */
+
+html, body {
+  margin: auto;
+}
+.clear {
+  clear: both;
+}
+#wrapper {
+  width: 90%;
+  max-width: 960px;
+  margin: auto;
+}
+
+/*---------- HEADER ----------*/
+
+header {
+  height: 300px;
+  width: 100%;
+  background: #e3e3e3;
+}
